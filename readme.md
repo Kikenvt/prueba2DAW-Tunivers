@@ -1,1 +1,1 @@
-# Practica de HTML5, CSS3 y JacaScript
+# Practica de HTML5, CSS3 y JavaScript
