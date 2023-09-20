@@ -5,3 +5,7 @@
     -moz-box-shadow: 60px 35px 5px 0px rgba(0,0,0,0.69);
     box-shadow: 60px 35px 5px 0px rgba(0,0,0,0.69);
 }
+
+body{
+    text-align: center;
+}
